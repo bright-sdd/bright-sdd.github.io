@@ -1,0 +1,77 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: brightside
+email: 
+description: By day, just a regular software engineer.
+url: https://bright-sd.github.io
+baseurl: ""
+keywords: ["blog", "jekyll"]
+
+plugins: [jekyll-paginate]
+paginate_path: "/page:num/"
+paginate: 5
+
+google_analytics: G-BY98CP65TF
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Kolkata
+markdown:          kramdown
+highlighter:       rouge
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: brightside
+  avatar: brightside.jpg
+  job: Software Engineer
+  bio: "By day, just a regular software engineer."
+  email: 
+  disqus-shortname:
+  twitter: 
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: bright-sd
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: bright_sd

@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bright_sd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bright-sd.github.io
+  * I am bright_sd (https://keybase.io/bright_sd) on keybase.
+  * I have a public key ASChyZeISLDJJm994dlOOi0zhe9SMkePZFlrmdICFwJnXQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a1c9978848b0c9266f7de1d94e3a2d3385ef5232478f64596b99d2021702675d0a",
+      "host": "keybase.io",
+      "kid": "0120a1c9978848b0c9266f7de1d94e3a2d3385ef5232478f64596b99d2021702675d0a",
+      "uid": "9f40b8d58827220e856c9167809c9a19",
+      "username": "bright_sd"
+    },
+    "merkle_root": {
+      "ctime": 1609519468,
+      "hash": "20e0da6caf7b47431ee0b6587b6628c9f3376243b61b3b396987eb9e67ac732244e63f80dba19fcc79f0134648c4d9c99f3b47fb49c440be087fb5632197ab4d",
+      "hash_meta": "df10ba48aef89c667dbf93cfe1737e9a66e1cc3ca3f436e0660b18884a1baff5",
+      "seqno": 18559178
+    },
+    "service": {
+      "entropy": "Svam8dVC2+GyZZNCAoy8ocvz",
+      "hostname": "bright-sd.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1609519478,
+  "expire_in": 504576000,
+  "prev": "082598b009ad2de9df8e9480eb27bc19e0760d7b880faf13fa8c0a37cedfb01c",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgocmXiEiwySZvfeHZTjotM4XvUjJHj2RZa5nSAhcCZ10Kp3BheWxvYWTESpcCBMQgCCWYsAmtLenfjpSA6ye8GeB2DXuID68T+owKN87fsBzEIHk7clKEQDXYrYIh+i2XJbsFoNjJA9EL6qpqRDqsJQfYAgHCo3NpZ8RAUb3hd5bXVeHVNfewWuYQF3omDYAJqTH4VPFMuI66VnKA9ptGV0L8AdyvUlbxIIjmcE3Aepf3qGhpbe/dc6vaCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFtnhsH4yLGpcGCLLPkItpKXgoPUAz81sakiNka1sPCRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bright_sd
+
+==================================================================

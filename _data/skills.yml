@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Python, Web development, API Development, Databases, GNU/Linux, GCP
+percentage: 90, 80, 85, 85, 75, 80 

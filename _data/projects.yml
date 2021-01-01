@@ -1,0 +1,6 @@
+- year: 2021
+  projects:
+    - name: Hello world
+      technologies: Python
+      description: Python program that prints "Hello world"
+      github: https://github.com/bright-sd/hello-world
