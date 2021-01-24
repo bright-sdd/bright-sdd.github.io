@@ -5,7 +5,7 @@
 #
 title: brightside
 email: 
-description: By day, just a regular software engineer.
+description: Just a regular software engineer.
 url: https://bright-sd.github.io
 baseurl: ""
 keywords: ["blog", "jekyll"]
@@ -42,7 +42,7 @@ owner:
   name: brightside
   avatar: brightside.jpg
   job: Software Engineer
-  bio: "By day, just a regular software engineer."
+  bio: "Just a regular software engineer."
   email: 
   disqus-shortname:
   twitter: 
